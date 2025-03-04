@@ -16,9 +16,9 @@
     },
     {
       "id": "C003",
-      "name": "Quần jean nam",
-      "import_date": "10/01/2024",
-      "quantity": 40,
+      "name": "Quần jean nam size gap",
+      "import_date": "2025-03-03",
+      "quantity": 12,
       "type_id": "T003"
     },
     {
@@ -102,15 +102,8 @@
       "name": "Áo thun phong cách mùa Hè",
       "type_id": "T001",
       "quantity": "10",
-      "import_date": "2025-03-04",
-      "id": "8yFRs1F"
-    },
-    {
-      "name": "Áo thun phong cách mùa Hè",
-      "type_id": "T001",
-      "quantity": "10",
-      "importDate": "2025-03-04",
-      "id": "ukuHYpI"
+      "import_date": "2025-03-03",
+      "id": "C015"
     }
   ],
   "clothe_types": [
