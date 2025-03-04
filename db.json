@@ -1,0 +1,134 @@
+{
+  "clothes": [
+    {
+      "id": "C001",
+      "name": "Áo thun nam",
+      "import_date": "2025-03-03",
+      "quantity": "20",
+      "type_id": "T001"
+    },
+    {
+      "id": "C002",
+      "name": "Áo sơ mi nữ",
+      "import_date": "05/02/2024",
+      "quantity": 30,
+      "type_id": "T002"
+    },
+    {
+      "id": "C003",
+      "name": "Quần jean nam",
+      "import_date": "10/01/2024",
+      "quantity": 40,
+      "type_id": "T003"
+    },
+    {
+      "id": "C004",
+      "name": "Váy nữ công sở",
+      "import_date": "15/02/2024",
+      "quantity": 20,
+      "type_id": "T004"
+    },
+    {
+      "id": "C005",
+      "name": "Áo thun nữ",
+      "import_date": "12/02/2024",
+      "quantity": 35,
+      "type_id": "T001"
+    },
+    {
+      "id": "C006",
+      "name": "Áo thun tay dài phiên bản đặc biệt",
+      "import_date": "2025-03-04",
+      "quantity": 10,
+      "type_id": "T001"
+    },
+    {
+      "id": "C007",
+      "name": "Áo sơ mi nam",
+      "import_date": "08/02/2024",
+      "quantity": 25,
+      "type_id": "T002"
+    },
+    {
+      "id": "C008",
+      "name": "Áo sơ mi cổ trụ",
+      "import_date": "18/02/2024",
+      "quantity": 20,
+      "type_id": "T002"
+    },
+    {
+      "id": "C009",
+      "name": "Quần jean nữ",
+      "import_date": "22/01/2024",
+      "quantity": 30,
+      "type_id": "T003"
+    },
+    {
+      "id": "C010",
+      "name": "Quần jean rách",
+      "import_date": "27/01/2024",
+      "quantity": 15,
+      "type_id": "T003"
+    },
+    {
+      "id": "C011",
+      "name": "Váy xòe nữ",
+      "import_date": "05/02/2024",
+      "quantity": 18,
+      "type_id": "T004"
+    },
+    {
+      "id": "C012",
+      "name": "Váy maxi",
+      "import_date": "10/02/2024",
+      "quantity": 22,
+      "type_id": "T004"
+    },
+    {
+      "id": "C013",
+      "name": "Váy dạ hội",
+      "import_date": "15/02/2024",
+      "quantity": 10,
+      "type_id": "T004"
+    },
+    {
+      "id": "C014",
+      "name": "Quần jean skinny",
+      "import_date": "30/01/2024",
+      "quantity": 20,
+      "type_id": "T003"
+    },
+    {
+      "name": "Áo thun phong cách mùa Hè",
+      "type_id": "T001",
+      "quantity": "10",
+      "import_date": "2025-03-04",
+      "id": "8yFRs1F"
+    },
+    {
+      "name": "Áo thun phong cách mùa Hè",
+      "type_id": "T001",
+      "quantity": "10",
+      "importDate": "2025-03-04",
+      "id": "ukuHYpI"
+    }
+  ],
+  "clothe_types": [
+    {
+      "type_id": "T001",
+      "type_name": "Áo thun"
+    },
+    {
+      "type_id": "T002",
+      "type_name": "Áo sơ mi"
+    },
+    {
+      "type_id": "T003",
+      "type_name": "Quần jean"
+    },
+    {
+      "type_id": "T004",
+      "type_name": "Váy"
+    }
+  ]
+}
